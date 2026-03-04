@@ -18,7 +18,7 @@ Add this to your Claude Desktop config (`~/Library/Application Support/Claude/cl
 {
   "mcpServers": {
     "second-brain-starter": {
-      "url": "https://brianmadden.ai/start/sse"
+      "url": "https://brianmadden.ai/start"
     }
   }
 }
@@ -72,7 +72,7 @@ second-brain-starter/
 
 ## Origin
 
-This framework is derived from [Brian Madden's](https://brianmadden.ai) personal AI knowledge system, which he's been building and writing about since 2025. The public version of his system is available as an MCP server at [brianmadden.ai](https://brianmadden.ai).
+This framework is derived from [Brian Madden's](https://bmad.com) personal AI knowledge system, which he's been building and writing about since 2025. The public version of his system is available as an MCP server at [brianmadden.ai](https://brianmadden.ai).
 
 ## License
 
